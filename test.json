@@ -1,0 +1,148 @@
+[{
+	"frame_id": 389,
+	"objects": [{
+		"class_id": 14,
+		"name": "bird",
+		"relative_coordinates": {
+			"center_x": 0.452104,
+			"center_y": 0.569402,
+			"width": 0.253927,
+			"height": 0.581773
+		},
+		"confidence": 0.316597
+	}]
+}, {
+	"frame_id": 390,
+	"objects": [{
+		"class_id": 14,
+		"name": "bird",
+		"relative_coordinates": {
+			"center_x": 0.453046,
+			"center_y": 0.554982,
+			"width": 0.258923,
+			"height": 0.597792
+		},
+		"confidence": 0.461179
+	}]
+}, {
+	"frame_id": 391,
+	"objects": [
+
+	]
+}, {
+	"frame_id": 392,
+	"objects": [{
+		"class_id": 14,
+		"name": "bird",
+		"relative_coordinates": {
+			"center_x": 0.482164,
+			"center_y": 0.498489,
+			"width": 0.269458,
+			"height": 0.698174
+		},
+		"confidence": 0.337528
+	}]
+}, {
+	"frame_id": 393,
+	"objects": [{
+		"class_id": 14,
+		"name": "bird",
+		"relative_coordinates": {
+			"center_x": 0.489219,
+			"center_y": 0.486466,
+			"width": 0.305484,
+			"height": 0.720358
+		},
+		"confidence": 0.600852
+	}]
+}, {
+	"frame_id": 394,
+	"objects": [{
+		"class_id": 14,
+		"name": "bird",
+		"relative_coordinates": {
+			"center_x": 0.493097,
+			"center_y": 0.477287,
+			"width": 0.305618,
+			"height": 0.734987
+		},
+		"confidence": 0.600995
+	}]
+}, {
+	"frame_id": 395,
+	"objects": [{
+		"class_id": 14,
+		"name": "bird",
+		"relative_coordinates": {
+			"center_x": 0.492080,
+			"center_y": 0.476331,
+			"width": 0.312252,
+			"height": 0.753666
+		},
+		"confidence": 0.566654
+	}]
+}, {
+	"frame_id": 396,
+	"objects": [{
+		"class_id": 14,
+		"name": "bird",
+		"relative_coordinates": {
+			"center_x": 0.496377,
+			"center_y": 0.448240,
+			"width": 0.334113,
+			"height": 0.771584
+		},
+		"confidence": 0.323799
+	}]
+}, {
+	"frame_id": 397,
+	"objects": [{
+		"class_id": 14,
+		"name": "bird",
+		"relative_coordinates": {
+			"center_x": 0.491520,
+			"center_y": 0.442932,
+			"width": 0.333281,
+			"height": 0.737523
+		},
+		"confidence": 0.323537
+	}]
+}, {
+	"frame_id": 398,
+	"objects": [{
+		"class_id": 14,
+		"name": "bird",
+		"relative_coordinates": {
+			"center_x": 0.488611,
+			"center_y": 0.442943,
+			"width": 0.353491,
+			"height": 0.705039
+		},
+		"confidence": 0.277093
+	}]
+}, {
+	"frame_id": 399,
+	"objects": [
+
+	]
+}, {
+	"frame_id": 400,
+	"objects": [
+
+	]
+}, {
+	"frame_id": 401,
+	"objects": [
+
+	]
+}, {
+	"frame_id": 402,
+	"objects": [
+
+	]
+}, {
+	"frame_id": 403,
+	"objects": [
+
+	]
+}]
