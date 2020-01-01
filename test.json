@@ -1,148 +1,632 @@
 [{
-	"frame_id": 389,
-	"objects": [{
-		"class_id": 14,
-		"name": "bird",
-		"relative_coordinates": {
-			"center_x": 0.452104,
-			"center_y": 0.569402,
-			"width": 0.253927,
-			"height": 0.581773
-		},
-		"confidence": 0.316597
-	}]
-}, {
-	"frame_id": 390,
-	"objects": [{
-		"class_id": 14,
-		"name": "bird",
-		"relative_coordinates": {
-			"center_x": 0.453046,
-			"center_y": 0.554982,
-			"width": 0.258923,
-			"height": 0.597792
-		},
-		"confidence": 0.461179
-	}]
-}, {
-	"frame_id": 391,
-	"objects": [
-
-	]
-}, {
-	"frame_id": 392,
-	"objects": [{
-		"class_id": 14,
-		"name": "bird",
-		"relative_coordinates": {
-			"center_x": 0.482164,
-			"center_y": 0.498489,
-			"width": 0.269458,
-			"height": 0.698174
-		},
-		"confidence": 0.337528
-	}]
-}, {
-	"frame_id": 393,
-	"objects": [{
-		"class_id": 14,
-		"name": "bird",
-		"relative_coordinates": {
-			"center_x": 0.489219,
-			"center_y": 0.486466,
-			"width": 0.305484,
-			"height": 0.720358
-		},
-		"confidence": 0.600852
-	}]
-}, {
-	"frame_id": 394,
-	"objects": [{
-		"class_id": 14,
-		"name": "bird",
-		"relative_coordinates": {
-			"center_x": 0.493097,
-			"center_y": 0.477287,
-			"width": 0.305618,
-			"height": 0.734987
-		},
-		"confidence": 0.600995
-	}]
-}, {
-	"frame_id": 395,
-	"objects": [{
-		"class_id": 14,
-		"name": "bird",
-		"relative_coordinates": {
-			"center_x": 0.492080,
-			"center_y": 0.476331,
-			"width": 0.312252,
-			"height": 0.753666
-		},
-		"confidence": 0.566654
-	}]
-}, {
-	"frame_id": 396,
-	"objects": [{
-		"class_id": 14,
-		"name": "bird",
-		"relative_coordinates": {
-			"center_x": 0.496377,
-			"center_y": 0.448240,
-			"width": 0.334113,
-			"height": 0.771584
-		},
-		"confidence": 0.323799
-	}]
-}, {
-	"frame_id": 397,
-	"objects": [{
-		"class_id": 14,
-		"name": "bird",
-		"relative_coordinates": {
-			"center_x": 0.491520,
-			"center_y": 0.442932,
-			"width": 0.333281,
-			"height": 0.737523
-		},
-		"confidence": 0.323537
-	}]
-}, {
-	"frame_id": 398,
-	"objects": [{
-		"class_id": 14,
-		"name": "bird",
-		"relative_coordinates": {
-			"center_x": 0.488611,
-			"center_y": 0.442943,
-			"width": 0.353491,
-			"height": 0.705039
-		},
-		"confidence": 0.277093
-	}]
-}, {
-	"frame_id": 399,
-	"objects": [
-
-	]
-}, {
-	"frame_id": 400,
-	"objects": [
-
-	]
-}, {
-	"frame_id": 401,
-	"objects": [
-
-	]
-}, {
-	"frame_id": 402,
-	"objects": [
-
-	]
-}, {
-	"frame_id": 403,
-	"objects": [
-
-	]
-}]
+		"frame_id": 1445864,
+		"objects": [{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.428468
+			},
+			{
+				"class_id": 67,
+				"name": "cell phone",
+				"confidence": 0.258002
+			},
+			{
+				"class_id": 9,
+				"name": "traffic light",
+				"confidence": 0.415007
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.470552
+			},
+			{
+				"class_id": 7,
+				"name": "truck",
+				"confidence": 0.426449
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.933543
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.733697
+			}
+		]
+	},
+	{
+		"frame_id": 1445865,
+		"objects": [{
+				"class_id": 9,
+				"name": "traffic light",
+				"confidence": 0.393352
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.466807
+			},
+			{
+				"class_id": 7,
+				"name": "truck",
+				"confidence": 0.376528
+			},
+			{
+				"class_id": 7,
+				"name": "truck",
+				"confidence": 0.257700
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.947651
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.794185
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.617560
+			}
+		]
+	},
+	{
+		"frame_id": 1445866,
+		"objects": [{
+				"class_id": 9,
+				"name": "traffic light",
+				"confidence": 0.428419
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.422682
+			},
+			{
+				"class_id": 7,
+				"name": "truck",
+				"confidence": 0.396119
+			},
+			{
+				"class_id": 7,
+				"name": "truck",
+				"confidence": 0.268625
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.940132
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.748043
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.596061
+			}
+		]
+	},
+	{
+		"frame_id": 1445867,
+		"objects": [{
+				"class_id": 9,
+				"name": "traffic light",
+				"confidence": 0.381147
+			},
+			{
+				"class_id": 7,
+				"name": "truck",
+				"confidence": 0.369309
+			},
+			{
+				"class_id": 7,
+				"name": "truck",
+				"confidence": 0.368246
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.631245
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.944251
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.789815
+			}
+		]
+	},
+	{
+		"frame_id": 1445868,
+		"objects": [{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.373953
+			},
+			{
+				"class_id": 67,
+				"name": "cell phone",
+				"confidence": 0.353314
+			},
+			{
+				"class_id": 9,
+				"name": "traffic light",
+				"confidence": 0.489424
+			},
+			{
+				"class_id": 7,
+				"name": "truck",
+				"confidence": 0.434817
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.933058
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.710911
+			}
+		]
+	},
+	{
+		"frame_id": 1445869,
+		"objects": [{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.450242
+			},
+			{
+				"class_id": 67,
+				"name": "cell phone",
+				"confidence": 0.289866
+			},
+			{
+				"class_id": 9,
+				"name": "traffic light",
+				"confidence": 0.462630
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.518502
+			},
+			{
+				"class_id": 7,
+				"name": "truck",
+				"confidence": 0.423624
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.935849
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.668074
+			}
+		]
+	},
+	{
+		"frame_id": 1445870,
+		"objects": [{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.542443
+			},
+			{
+				"class_id": 67,
+				"name": "cell phone",
+				"confidence": 0.282105
+			},
+			{
+				"class_id": 9,
+				"name": "traffic light",
+				"confidence": 0.447385
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.523347
+			},
+			{
+				"class_id": 7,
+				"name": "truck",
+				"confidence": 0.428233
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.937462
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.719107
+			}
+		]
+	},
+	{
+		"frame_id": 1445871,
+		"objects": [{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.572432
+			},
+			{
+				"class_id": 67,
+				"name": "cell phone",
+				"confidence": 0.296557
+			},
+			{
+				"class_id": 9,
+				"name": "traffic light",
+				"confidence": 0.435935
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.535865
+			},
+			{
+				"class_id": 7,
+				"name": "truck",
+				"confidence": 0.398923
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.947527
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.753415
+			}
+		]
+	},
+	{
+		"frame_id": 1445872,
+		"objects": [{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.516772
+			},
+			{
+				"class_id": 67,
+				"name": "cell phone",
+				"confidence": 0.251967
+			},
+			{
+				"class_id": 9,
+				"name": "traffic light",
+				"confidence": 0.469492
+			},
+			{
+				"class_id": 7,
+				"name": "truck",
+				"confidence": 0.429974
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.930924
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.745632
+			}
+		]
+	},
+	{
+		"frame_id": 1445873,
+		"objects": [{
+				"class_id": 9,
+				"name": "traffic light",
+				"confidence": 0.459708
+			},
+			{
+				"class_id": 7,
+				"name": "truck",
+				"confidence": 0.429191
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.934921
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.751818
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.524465
+			}
+		]
+	},
+	{
+		"frame_id": 1445874,
+		"objects": [{
+				"class_id": 9,
+				"name": "traffic light",
+				"confidence": 0.444252
+			},
+			{
+				"class_id": 7,
+				"name": "truck",
+				"confidence": 0.449758
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.930560
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.750919
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.559200
+			}
+		]
+	},
+	{
+		"frame_id": 1445875,
+		"objects": [{
+				"class_id": 9,
+				"name": "traffic light",
+				"confidence": 0.511955
+			},
+			{
+				"class_id": 7,
+				"name": "truck",
+				"confidence": 0.460746
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.929671
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.641059
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.616125
+			}
+		]
+	},
+	{
+		"frame_id": 1445876,
+		"objects": [{
+				"class_id": 9,
+				"name": "traffic light",
+				"confidence": 0.491020
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.503276
+			},
+			{
+				"class_id": 7,
+				"name": "truck",
+				"confidence": 0.445408
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.938689
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.726380
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.623815
+			}
+		]
+	},
+	{
+		"frame_id": 1445877,
+		"objects": [{
+				"class_id": 9,
+				"name": "traffic light",
+				"confidence": 0.502356
+			},
+			{
+				"class_id": 7,
+				"name": "truck",
+				"confidence": 0.410882
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.928994
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.754272
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.650597
+			}
+		]
+	},
+	{
+		"frame_id": 1445878,
+		"objects": [{
+				"class_id": 9,
+				"name": "traffic light",
+				"confidence": 0.446082
+			},
+			{
+				"class_id": 7,
+				"name": "truck",
+				"confidence": 0.385009
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.913595
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.659543
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.644247
+			}
+		]
+	},
+	{
+		"frame_id": 1445879,
+		"objects": [{
+				"class_id": 9,
+				"name": "traffic light",
+				"confidence": 0.439104
+			},
+			{
+				"class_id": 7,
+				"name": "truck",
+				"confidence": 0.395689
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.914107
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.687597
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.679420
+			}
+		]
+	},
+	{
+		"frame_id": 1445880,
+		"objects": [{
+				"class_id": 9,
+				"name": "traffic light",
+				"confidence": 0.444944
+			},
+			{
+				"class_id": 7,
+				"name": "truck",
+				"confidence": 0.377733
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.923699
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.720199
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.703540
+			}
+		]
+	},
+	{
+		"frame_id": 1445881,
+		"objects": [{
+				"class_id": 9,
+				"name": "traffic light",
+				"confidence": 0.421189
+			},
+			{
+				"class_id": 7,
+				"name": "truck",
+				"confidence": 0.345712
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.935415
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.728358
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.696309
+			}
+		]
+	},
+	{
+		"frame_id": 1445882,
+		"objects": [{
+				"class_id": 9,
+				"name": "traffic light",
+				"confidence": 0.435364
+			},
+			{
+				"class_id": 7,
+				"name": "truck",
+				"confidence": 0.394253
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.929611
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.746321
+			},
+			{
+				"class_id": 2,
+				"name": "car",
+				"confidence": 0.700063
+			}
+		]
+	}
+]
